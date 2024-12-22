@@ -64,6 +64,13 @@ Below is the Entity-Relationship (ER) diagram representing the News App:
 [Users] --- Reads ---> [News Articles]
 [API] --- Fetches ---> [News Articles]
 ```
+### ScreenShots
+<p align="center">
+  <br>
+  <img src="./ArticleScreen.png" width="200" height="400">
+  <img src="./NewsScreen.png" width="200" height="400">
+  <img src="./SearchScreen.png" width="200" height="400">
+</p>
 
 ### How It Works
 1. **User Interaction**: Users interact with the app through a search bar and list of news articles.
